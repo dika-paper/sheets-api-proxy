@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "juragan-material-paylater",
+  "private_key_id": "4a622a1b00eaab76c874d22c9dd317e3f7e56ec0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCz7T/k4cBCHGKG\nNsghesTRKkE+88M7y6dI+cmpFAZVm/x46V+e651l4z27TxIA7ZW5ZCdCOccl8jEx\nZJ9rAKG678ucjRMbJaMBFIk2BiTltanJ4sCdPGrJqLXixQtZbXqYIfwbH9XHdPS7\nOImz0rsDvA+3GoPyHJSirS5Ci7q+ua0NZFZl5QzyZ5dUogNRQC6WpoX5uTwpfkr5\n6dD+26TCDTTvMRvXwi0WxlEFZt+jnHSUIrlviDOgXOjDewyqq0WCniNNdPzfj21t\nnLZpI+LRJvlDj67kdnn7IdZgtuFeYeYoC11DAnYGvDGmXUuyUY5Gq4YnMNvhJxl2\n85c0OcqlAgMBAAECggEAIoMTwiieOuAcct+PqEJW/cLz5GoX7QCNjCUjjguyAlpL\nBXtINOC/XnOF3AeY7bYkxbyE/kI8ZZYs4utI29qxavzDiroRq9+egl7IyeTIT4p2\nsKuOpCpaVmeGyeJfYK4r+YHtTFuhIyLXLZE08pntdtQsFIRgwkBCr2h2Ctwn/Byo\n4RaOYtTlOx1Ft/Ph8/QhZmkM8vtLuz/YGuQWJxIMdFL4txfJ5doBzEBD7MLEfv33\nj1STB8vjY+Fql4uSzBNOcuAA2nmpHufgVUDPysoe9Jlde+EDbtLR9UU/v6fiz+RQ\nSeniQqf1qNPypmUbZMdBo0hy8xkRIucJA26QEsK2oQKBgQD0fAnzAxtzryYThtPv\nMISy4b4UxD1GgRbro9q5X1no/FBEweveroCukPpIoXaHZnATVnDqt4OlhVYC14hx\nniX/r2jBqteHnM2vCv7Spw3cdFzc8gqOH5q7dUWYJYoI1XD5YFUB0nZKDPxROzaX\nld63tiuNYcL5hHIZZMgkwaUV4QKBgQC8ZsgrgeDzXxL25+pl0GwdWdZ/qDQ3I8RI\nzYpAkXn5WQhXyUT0ONTqpifAgJkpwZnUPVxj9EimpliWNGbsC+7ZH+NICYSOHAc6\neFKXE+iBMrRO+ILLg+zkBIJt2yR8nO/NGm4tCausuH5eaxrv4ktFa0liattTG2Yf\n0K9zf/2FRQKBgQCQ9YLIrcz3GKCQ71518eScU7Dqizhxt1SpvuuPAfRDamcFfZ2m\n2Py/hIKB0gp/WcOWE6i74reRyq8m3DiwdT6+jXila/CDHfvuj6xrplVXoz70Wibc\nAe0yvOPYxFlFx5hGpFGC1REB8xUf7OX/lwMJFmBYYeDDJT6pw9HPyWliwQKBgCUc\n4iWf6h5HBkdZHBV+Xy3Q+q4fBlouU4Y75xYdEjgKT9hrL4gkgdzPallDe+h72L+0\nbrTJ9F3PuverzvKEz0I6Q9128oPEBbCA71QPeeepg1djIPDSRiIMuVzGpINfruVq\nZXW9x/G4TjxvQNksbMN6BPS8NARFC3MM+uL3vYs5AoGBANJWULRgsp7YDyWqyjTQ\nF4EZuakD+5D//VsMbI/92h+GtpBjzFo6fUDvHSX6hqNRFvVRNxxbeQQA4VHnrJjb\nqBSX72DbXIso+dAKKSRrSMEO1CMvfOGqMn23WAFb/E+KV2ACz5lPdfk8vp/QnCmJ\no+QVyqpj7Yj8OlmUIbz0xkk5\n-----END PRIVATE KEY-----\n",
+  "client_email": "jm-paylater@juragan-material-paylater.iam.gserviceaccount.com",
+  "client_id": "103572443351032389454",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jm-paylater%40juragan-material-paylater.iam.gserviceaccount.com"
+}
